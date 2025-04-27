@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&color=F7EA9D&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Filipe;Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&color=6E6946FF&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Filipe;Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
 Sempre fui apaixonado por tecnologia desde a minha infância, e hoje em dia essa paixão só faz aumentar.
 Atualmente estou cursando a graduação em Sitemas de Informação pela universidade Estácio de Sá. E me especializando em Java e SpringFramework
 
