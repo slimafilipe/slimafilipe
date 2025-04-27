@@ -13,16 +13,17 @@ Atualmente estou cursando a graduação em Sitemas de Informação pela universi
 
 
 
-## GitHub Stats
-[![](https://github-readme-stats.vercel.app/api?username=slimafilipe&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/slimafilipe/github-readme-stats#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api?username=slimafilipe&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/slimafilipe/github-readme-stats#gh-light-mode-only)
-
 
 
 ## Stacks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Angular](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slimafilipe&layout=compact)
+
+## GitHub Stats
+[![](https://github-readme-stats.vercel.app/api?username=slimafilipe&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/slimafilipe/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=slimafilipe&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/slimafilipe/github-readme-stats#gh-light-mode-only)
