@@ -14,7 +14,7 @@ Atualmente estou cursando a graduação em Sitemas de Informação pela universi
 
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=slimafilipe_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=slimafilipe&show_icons=true&theme=radical)
 
 
 
