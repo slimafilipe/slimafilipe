@@ -1,7 +1,7 @@
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&color=6E6946FF&center=true&vCenter=true&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
-Amante da tecnologia e inovação.
-## 📱 Me encontre
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&color=6E6946FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+There+are+Filipe!)](https://git.io/typing-svg)
+
+## 📱 Find me
 
 <p align="left">
   <a href="[https://skillicons.dev](https://www.linkedin.com/in/slimafilipe/)">
