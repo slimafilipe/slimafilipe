@@ -19,7 +19,7 @@
 
 
 
-## Stacks
+## Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
