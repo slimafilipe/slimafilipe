@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&color=6E6946FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+There+are+Filipe!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&color=6E6946FF&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+Filipe+here.)](https://git.io/typing-svg)
 
 ## 📱 Find me
 
